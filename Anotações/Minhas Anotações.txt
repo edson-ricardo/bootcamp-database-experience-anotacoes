@@ -1,0 +1,7 @@
+INTRODUÇÃO AO GIT
+
+GUI x CLI
+
+GUI (Graphical user interface): interface gráfica do usuário.
+
+CLI (Command Line Interface): é uma interface de linha de comando.
