@@ -14,7 +14,6 @@
 - Objetivos - entender os objetivos do cliente
 
 O UX trabalha em conjunto com o UI.
-
 <br>
 
 ### **USER INTERFACE (UI) - APARÊNCIA**
