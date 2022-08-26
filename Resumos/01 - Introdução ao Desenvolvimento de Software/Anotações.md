@@ -17,7 +17,6 @@ O UX trabalha em conjunto com o UI.
 <br>
 
 ### **USER INTERFACE (UI) - APARÊNCIA**
-
 <br>
 
 É responsável por criar o que o usuário irá ver e utilizar.
