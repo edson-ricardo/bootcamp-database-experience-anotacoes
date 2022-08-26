@@ -1,14 +1,10 @@
 # Anotações Básicas do Bootcamp Database Experience - DIO
 Primeiro Repositório criado para o Desafio do Projeto.
 
-## Seguem abaixo os resumos de cada aula estudada.
+## Seguem abaixo os resumos de cada aula estudada:
 
 ### Links Internos
-
-Introdução ao  Desenvolvimento Moderno de Sotware
-
-
-
+[Introdução ao  Desenvolvimento Moderno de Sotware](https://github.com/nosderico/bootcamp-database-experience-anotacoes/tree/main/Resumos/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20de%20Software)
 
 ### Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
