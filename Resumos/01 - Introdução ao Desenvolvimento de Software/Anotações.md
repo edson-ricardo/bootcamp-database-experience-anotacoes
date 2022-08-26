@@ -53,12 +53,12 @@ Desenvolvedor Back-end:
 Desenvolvedor Full Stack:
 - É alguém que trabalha tanto com Back-end quanto com Front-end.
 
-
 Os códigos para o desenvolvimento de uma aplicação são criados em uma IDE (Ambiente de Desenvolvimento Integrado - em português).
 <br>
 
 ### **FRAMEWORK**
 <br>
+
 É um facilitador.
 
 É um software que vai lhe ajudar no desenvolvimento de uma aplicação. Exemplos:
