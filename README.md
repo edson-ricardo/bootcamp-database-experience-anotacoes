@@ -1,5 +1,5 @@
 # Anotações Básicas do Bootcamp Database Experience - DIO
-Primeiro Repositório criado para o o Desafio do Projeto.
+Primeiro Repositório criado para o Desafio do Projeto.
 
 ## Seguem abaixo os resumos de cada aula estudada.
 
