@@ -1,0 +1,45 @@
+INTRODUÇÃO AO DESENVOLVIMENTO MODERNO DE SOFTWARE 
+
+SEGUNDA ETAPA - CODIFICAÇÃO
+
+Temos dois profissionais:
+
+* Desenvolvedor Front-end:
+   - Desenvolve a aplicação para o cliente.
+   - Desenvolve a parte visual.
+   Trabalha, basicamente, com três linguagens de programação:
+      Html
+      CSS
+      Javascript
+
+* Desenvolvedor Back-end:
+   - Desenvolve aplicações nos servidores.
+ 
+* Desenvolvedor Full Stack:
+   - É alguém que trabalha tanto com Back-end quanto com Front-end.
+
+Os códigos para o desenvolvimento de uma aplicação são criados em uma IDE (Ambiente de Desenvolvimento Integrado - em português).
+
+FRAMEWORK
+
+É um facilitador.
+
+É um software que vai ajudar você no desenvolvimento de uma aplicação.
+Ex: Visual Studio Code (VS Code), Angular (front-end: HTML, CSS e Javascript), Laravel (PHP), Vue (Javascript), Spring (Java).
+
+É bom verificar qual é a linguagem suportada por cada framework.
+
+QUALITY ASSURANCE (QA)
+
+A função desse profissional é cuidar da qualidade do software.
+   * Exemplo: verificar se o valor transferido por Pix está indo para a pessoa correta.
+
+Não é obrigatório para esse profissional o conhecimento em programação. Caso ele saiba, é melhor para o entendimento dos processos.
+
+Profissionais envolvidos no desenvolvimento de software:
+   - UX
+   - UI
+   - Back-end
+   - Front-end
+   - Full Stack
+   - QA
