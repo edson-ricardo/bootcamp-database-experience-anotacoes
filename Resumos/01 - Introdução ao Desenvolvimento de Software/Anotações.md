@@ -59,7 +59,6 @@ Os códigos para o desenvolvimento de uma aplicação são criados em uma IDE (A
 
 ### **FRAMEWORK**
 <br>
-
 É um facilitador.
 
 É um software que vai lhe ajudar no desenvolvimento de uma aplicação. Exemplos:
