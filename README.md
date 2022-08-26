@@ -1,6 +1,14 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado parao o Desafio do Projeto.
+# Anotações Básicas do Bootcamp Database Experience - DIO
+Primeiro Repositório criado para o o Desafio do Projeto.
 
-## Links úteis
+## Seguem abaixo os resumos de cada aula estudada.
 
+### Links Internos
+
+Introdução ao  Desenvolvimento Moderno de Sotware
+
+
+
+
+### Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
